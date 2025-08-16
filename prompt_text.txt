@@ -1,0 +1,19 @@
+Act as an expert Art Director and Brand Strategist. Your task is to generate a professional, cohesive mood board that visually captures the essence of a Scandinavian-inspired interior design concept.
+
+The mood board must be arranged in a clean 4x3 grid and contain 9-16 distinct visual elements. The overall aesthetic is warm contemporary, cozy, and minimalist.
+
+Content Distribution & Elements:
+The board must feature a carefully curated content mix:
+
+Hero Images (~40%): Primary visuals that anchor the theme, such as photography of rooms filled with natural lighting and modern furniture silhouettes.
+
+Supporting Visuals (~25%): Secondary images that reinforce the concept, like close-ups of cozy textiles like wool and boucle, and minimalist decor items.
+
+Typography Samples (~15%): Font examples that match the tone, such as a warm yet contemporary serif font.
+
+Color Palette (~10%): Dedicated swatches representing the primary color story of crisp white, sage green, and light grey with accents of black and warm beige.
+
+Texture/Pattern Elements (~10%): Tactile references, such as light wood textures, woven fabrics, and ceramic surfaces.
+
+Quality & Style Directives:
+The final output must be of professional brand presentation quality with a contemporary design magazine aesthetic. All elements must adhere to high-end photography standards, showcasing a sophisticated creative direction and cohesive visual storytelling. Ensure all elements are 4K resolution, sharp, and clear.
