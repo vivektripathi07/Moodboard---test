@@ -9,14 +9,21 @@ Hero Images (~40%): Focus on main keyowrd
 
 Supporting Visuals (~25%): Focus on secondary keywords
 
-Typography Samples (~15%): Use a relevant font and it should be prominent and especially readable and big.
+Typography Samples (~18%): Use a relevant font and it should be prominent and especially readable and very big.
 
-Color Palette (~10%): As mentioned
+Color Palette (~2%): As mentioned and make it less prominent.
 
 Texture/Pattern Elements (~10%): As mentioned
 
-Borders(5%): From each side
+Borders: Frame border of white from all side for the whole image and have some blank between the elements as well.
 
 Quality & Style Directives:
+Have some skwed symmetry focus more on the primary subject.
+The text should be readable.
 The final output must be of professional brand presentation quality with a contemporary design magazine aesthetic. All elements must adhere to high-end photography standards, showcasing a sophisticated creative direction, have proper spacing bwtween elements and cohesive visual storytelling. Ensure all elements are 4K resolution, sharp, and clear.
-Make it uncluttered and less overwhelming by having a single focused elements.
+Make it uncluttered and less overwhelming by having a single focused elements single element.
+
+
+Negative:
+Dont include peoples.
+Dont have scalesd out view.
