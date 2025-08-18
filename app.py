@@ -27,7 +27,7 @@ values = ["Graphics Desgin",
              "Poster/Flyer",
              "Minimal"
              "Print",
-             " I want to build a poster for a webinar which I am giving on the topic how AI is transforming how we learn. "]
+             "This is for opening of a new coffe shop"]
 
 pallate = list_to_string(color_pallate)
 
