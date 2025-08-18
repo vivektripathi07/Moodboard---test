@@ -13,12 +13,13 @@ MODEL = "gemini-2.5-flash"
 def expand_prompt(user_input, answers, reference_format):
     system_instruction = (
         "You are an expert creative strategist and prompt engineer. "
-        "Take the original input and the user's answers to clarifying questions, "
+        "You take labels and their responses and generate prompts which prompts for building moodboard."
         "and expand them into a polished, structured professional prompt for AI image generation."
+        "You use content from labels (service, sub-service, style, application and project breif) and get context for the moodboard"
         "Use the following reference format as a guide: \n" + reference_format + "But dont exactly repeat whats written."
     )
     model = genai.GenerativeModel(model_name=MODEL, system_instruction=system_instruction)
-    response = model.generate_content(f"Input: {user_input}\nAnswers: {answers}")
+    response = model.generate_content(f"Labels:{user_input} \nValues: {answers}")
     return response.text.strip()
 
 def call_api(prompt_val):

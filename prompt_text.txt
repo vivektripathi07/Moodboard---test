@@ -1,6 +1,6 @@
 Act as an expert Art Director and Brand Strategist. Your task is to generate a professional, cohesive mood board.
 
-The mood board must be arranged in a clean 4x3 grid and contain 9-16 distinct visual elements.
+The mood board must be arranged in a clean 4x3 grid and contain randomly choose 9-16 distinct visual elements.
 
 Content Distribution & Elements:
 The board must feature a carefully curated content mix:
@@ -11,9 +11,7 @@ Supporting Visuals (~25%): Focus on secondary keywords
 
 Typography Samples (~18%): Use a relevant font and it should be prominent and especially readable and very big.
 
-Color Palette (~2%): As mentioned and make it less prominent.
-
-Texture/Pattern Elements (~10%): As mentioned
+Color Palette (~2%): Make it less prominent and it in rectangular format.
 
 Borders: Frame border of white from all side for the whole image and have some blank between the elements as well.
 
@@ -27,3 +25,4 @@ Make it uncluttered and less overwhelming by having a single focused elements si
 Negative:
 Dont include peoples.
 Dont have scalesd out view.
+Dont include any text which is small and un-readable.
